@@ -38,11 +38,11 @@ while True:
 		for request in driver.requests:
 			if request.method == 'POST' and "org_detail" in request.url:
 				payload_data = request.body.decode('UTF-8')
-				url = "https://launch.rhass.vn/api/itemInvestor?id"+str(x["id"])+"&payload="+str(payload_data)
+				url = "https://launch.rhass.vn/api/itemInvestor?id="+str(x["id"])+"&payload="+str(payload_data)
 				requests.get(url)
 	except Exception as e:
 		print(e)
-		url = "https://launch.rhass.vn/api/itemProject?id"+str(x["id"])
+		url = "https://launch.rhass.vn/api/itemProject?id="+str(x["id"])
 		requests.get(url)
 		print("* Project Link *")
 
