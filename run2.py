@@ -31,7 +31,7 @@ while i < 20:
 	driver.get(weblink)
 	print(weblink)
 	try:
-		driver.execute_script("document.getElementsByClassName('icon1')[0].click()")
+		driver.execute_script("document.getElementsByClassName('tracker_wrap')[1].click()")
 		time.sleep(10)
 		driver.back()
 		time.sleep(10)
