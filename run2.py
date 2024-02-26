@@ -18,11 +18,11 @@ while i < 20:
 	x = json.loads(response.text)
 
 	print(x['name'])
-	weblink = 'https://www.rootdata.com/Projects/detail/'+str(x["name"])+'?k='+str(x["project_decode"])
+	weblink = 'https://www.rootdata.com/member/'+str(x["name"])+'?k='+str(x["project_decode"])
 
 	firefox_options = Options()
 	firefox_options.add_argument("start-maximized")
-	firefox_options.add_argument("-private")
+	# firefox_options.add_argument("-private")
 	firefox_options.add_argument("--headless")
 
 	driver = webdriver.Firefox(options=firefox_options)
@@ -37,7 +37,7 @@ while i < 20:
 		time.sleep(10)
 
 		for request in driver.requests:
-			if request.method == 'POST' and "item_detail" in request.url:
+			if request.method == 'POST' and "mem_detail" in request.url:
 				payload_data = request.body.decode('UTF-8')
 				url = "https://launch.rhass.vn/api/itemInvestor?id="+str(x["id"])+"&payload="+str(payload_data)
 				requests.get(url)
