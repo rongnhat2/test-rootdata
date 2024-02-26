@@ -415,10 +415,11 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:55846/devtools/browser/6dac1547-a5aa-4c09-9944-513a1de55997
 1708402163320	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56031
-1708402237955	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--headless" " ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofile0rRzVT"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+1708488566539	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708574964536	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+r
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1708402238199	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -432,10 +433,11 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:56032/devtools/browser/43ecc4b2-965b-4ad9-9af8-7aa503d7a819
 1708402268223	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56159
-1708402294093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--headless" " ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileIUzzHu"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+1708488670273	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708575069750	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+r
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1708402294341	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -448,12 +450,11 @@ Read port: 56171
 console.error: ({})
 DevTools listening on ws://127.0.0.1:56160/devtools/browser/81f0a0f9-3320-4d33-9635-f3a978d4d69d
 1708402324370	addons.xpi	ERROR	System addon update list erro1708402325633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-adless" " ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileTSiFGh"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
-1708402325880	Marionette	INFO	Marionette enabled
-Dynamically enable window occlusion 0
+1708488725971	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708575125042	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ally enable window occlusion 0
 1708402325936	Marionette	INFO	Listening on port 56445
 WebDriver BiDi listening on ws://127.0.0.1:56426
 Read port: 56445
@@ -481,11 +482,11 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:56638/devtools/browser/b2e5bb72-1015-4436-9b2b-6344bdfb4cca
 1708402403825	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:57024
-1708402661158	geckodriver	INFO	Listening on 127.0.0.1:57033
-1708402664208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--headless" " ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileP1fTnP"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+1708488805382	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708575206426	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+tings: Ignoring preference override of remote settings server
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1708402664461	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -550,10 +551,11 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:57364/devtools/browser/e79b5b54-eef5-433e-8e3f-8745d9c908ff
 1708403156512	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:57490
-1708403176630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--remote-debu ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofilejPL0Cu"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708489557822	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708575957540	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1708403176886	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1708403176948	Marionette	INFO	Listening on port 57503
@@ -752,10 +754,11 @@ console.error: ({})
 DevTools listening on ws://127.0.0.1:57798/devtools/browser/ad3af4e0-b54f-4ef6-a1b5-87b7197bc473
 1708414492082	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:58504
-1708414913665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--remote-debu ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofile6MMfTT"
-console.warn: services.settings: Ignoring preference override of remote settings server
-console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708500894369	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708587292773	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1708414913917	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
 1708414913984	Marionette	INFO	Listening on port 58514
@@ -1442,10 +1445,11 @@ DevTools listening on ws://127.0.0.1:64200/devtools/browser/d0edfced-68b8-49cb-b
 console.error: ({})
 1708441531231	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:64417
-1708441705343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--headless" " ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileLyV9Qk"
-*** You are running in headless mode.
-console.warn: services.settings: Ignoring preference override of remote settings server
+1708527932559	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708614331717	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+r
 console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
 1708441705611	Marionette	INFO	Marionette enabled
 Dynamically enable window occlusion 0
@@ -38149,3 +38153,500 @@ DevTools listening on ws://127.0.0.1:61723/devtools/browser/fd700c54-edcc-4ffa-a
 Dynamically enable window occlusion 1
 1708485043389	geckodriver	INFO	Listening on 127.0.0.1:61832
 1708485059381	geckodriver	INFO	Listening on 127.0.0.1:61847
+1708597704136	geckodriver	INFO	Listening on 127.0.0.1:55927
+1708597707214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--remote-debu ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofilea7Ezc6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708597707520	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708597707598	Marionette	INFO	Listening on port 56004
+WebDriver BiDi listening on ws://127.0.0.1:55928
+Read port: 56004
+1708597707775	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708597707800	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:55921","sslProxy":"127.0.0.1:55921"}
+DevTools listening on ws://127.0.0.1:55928/devtools/browser/9a9c719c-3c2a-49b6-aa11-c1c3b1c0fd97
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.10khits.com/assets/js/sitewide.js, line 41: TypeError: $(...).rating is not a function
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+1708597730083	Marionette	INFO	Stopped listening on port 56004
+Dynamically enable window occlusion 1
+1708598059740	geckodriver	INFO	Listening on 127.0.0.1:59170
+1708598062807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--remote-debu ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofile05popi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708598063081	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708598063152	Marionette	INFO	Listening on port 59202
+WebDriver BiDi listening on ws://127.0.0.1:59171
+Read port: 59202
+1708598063306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708598063335	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59169","sslProxy":"127.0.0.1:59169"}
+DevTools listening on ws://127.0.0.1:59171/devtools/browser/9267205a-1ac6-4cac-a8ac-dcfcb2f6e72a
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.10khits.com/assets/js/sitewide.js, line 41: TypeError: $(...).rating is not a function
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+1708598093110	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+1708598175865	geckodriver	INFO	Listening on 127.0.0.1:60209
+1708598178931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--remote-debu ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileSdfwTZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708598179191	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708598179261	Marionette	INFO	Listening on port 60242
+WebDriver BiDi listening on ws://127.0.0.1:60210
+Read port: 60242
+1708598179411	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708598179436	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60202","sslProxy":"127.0.0.1:60202"}
+DevTools listening on ws://127.0.0.1:60210/devtools/browser/0695fb09-4601-4ba9-834a-da39b32b07bf
+JavaScript error: https://www.10khits.com/assets/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.10khits.com/assets/js/jquery.easing.min.js, line 44: ReferenceError: jQuery is not defined
+JavaScript error: https://www.10khits.com/assets/js/sitewide.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.10khits.com/login, line 80: ReferenceError: $ is not defined
+JavaScript error: https://www.10khits.com/login, line 95: ReferenceError: $ is not defined
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+1708598209374	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ, line 176: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ:176:17
+bB@https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ:504:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ:504:111
+
+1708598218351	Marionette	INFO	Stopped listening on port 60242
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1708598220932	geckodriver	INFO	Listening on 127.0.0.1:60596
+1708598223983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--remote-debu ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofile4FFWj4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708598224242	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708598224310	Marionette	INFO	Listening on port 60639
+WebDriver BiDi listening on ws://127.0.0.1:60597
+Read port: 60639
+1708598224463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708598224496	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60590","sslProxy":"127.0.0.1:60590"}
+DevTools listening on ws://127.0.0.1:60597/devtools/browser/3c1f0706-72a2-4aad-8e72-f9947a13adac
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.10khits.com/assets/js/sitewide.js, line 41: TypeError: $(...).rating is not a function
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.10khits.com."
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.10khits.com/login, line 109: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ, line 176: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ:176:17
+bB@https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ:504:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-8F2RCEL4QJ:504:111
+
+1708598248523	Marionette	INFO	Stopped listening on port 60639
+Dynamically enable window occlusion 1
+1708687495533	geckodriver	INFO	Listening on 127.0.0.1:52992
+1708687498603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--headless" " ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofilemOBBQP"
+*** You are running in headless mode.
+1708687528962	geckodriver	INFO	Listening on 127.0.0.1:53043
+1708687532024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileODeDLK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708687532273	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708687532333	Marionette	INFO	Listening on port 53053
+WebDriver BiDi listening on ws://127.0.0.1:53044
+Read port: 53053
+1708687532474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708687532508	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53042","sslProxy":"127.0.0.1:53042"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53044/devtools/browser/60b29ab1-791f-4dac-af14-0de3cb634cb4
+1708687552793	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708687562292	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708687592540	Marionette	INFO	Stopped listening on port 53053
+JavaScript warning: https://s2.adform.net/stoat/631/s2.adform.net/load/v/0.0.238/e/.gBBwCDA/i/vCAv.IAAAAAUAA/r:AdConstructor:contents/HTML:types/Standard, line 66: Script terminated by timeout at:
+h@https://s2.adform.net/stoat/631/s2.adform.net/load/v/0.0.238/e/.gBBwCDA/i/vCAv.IAAAAAUAA/r:AdConstructor:contents/HTML:types/Standard:66:59
+
+Dynamically enable window occlusion 1
+1708687854064	geckodriver	INFO	Listening on 127.0.0.1:60995
+1708687857132	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofilePPMz2P"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708687857381	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708687857450	Marionette	INFO	Listening on port 61003
+WebDriver BiDi listening on ws://127.0.0.1:60996
+Read port: 61003
+1708687857607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708687857631	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60994","sslProxy":"127.0.0.1:60994"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60996/devtools/browser/682339ad-8d24-4c57-a394-a577124301b6
+1708687887148	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708687887408	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: TypeError: ServiceWorker script at https://coinmarketcap.com/sw-cmc.js for scope https://coinmarketcap.com/ encountered an error during installation.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1708774287959	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+"-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofile1Hx0up"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708687923429	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708687923486	Marionette	INFO	Listening on port 61611
+WebDriver BiDi listening on ws://127.0.0.1:61604
+Read port: 61611
+1708687923532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708687923580	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61602","sslProxy":"127.0.0.1:61602"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61604/devtools/browser/026085ee-1e65-4457-b58b-98b0c4d675f9
+1708687948856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708687948856	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708687948857	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708687953462	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708687976810	Marionette	INFO	Stopped listening on port 61611
+JavaScript warning: https://s2.adform.net/stoat/631/s2.adform.net/load/v/0.0.238/e/.gBBwCDA/i/vCAv.IAAAAAUAA/r:AdConstructor:contents/HTML:types/Standard, line 66: Script terminated by timeout at:
+h@https://s2.adform.net/stoat/631/s2.adform.net/load/v/0.0.238/e/.gBBwCDA/i/vCAv.IAAAAAUAA/r:AdConstructor:contents/HTML:types/Standard:66:59
+
+Dynamically enable window occlusion 1
+1708688166098	geckodriver	INFO	Listening on 127.0.0.1:61537
+1708688169139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileUoqiWY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708688169390	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708688169415	Marionette	INFO	Listening on port 61545
+WebDriver BiDi listening on ws://127.0.0.1:61538
+Read port: 61545
+1708688169495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708688169522	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61536","sslProxy":"127.0.0.1:61536"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:61538/devtools/browser/0989fbcf-deaa-4b08-a740-e09378e2298f
+1708688189283	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688195568	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688211753	Marionette	INFO	Stopped listening on port 61545
+JavaScript warning: https://cdn4.buysellads.net/pub/coinmarketcap.js?1708687800000, line 25: Script terminated by timeout at:
+c@https://cdn4.buysellads.net/pub/coinmarketcap.js?1708687800000:25:5410
+
+Dynamically enable window occlusion 1
+1708688268988	geckodriver	INFO	Listening on 127.0.0.1:51686
+1708688272031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofilepmC8IA"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708688272276	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708688272335	Marionette	INFO	Listening on port 51694
+WebDriver BiDi listening on ws://127.0.0.1:51687
+Read port: 51694
+1708688272474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708688272504	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51685","sslProxy":"127.0.0.1:51685"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51687/devtools/browser/4eea0971-c118-4da8-a463-2689d53d2209
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/28335.90e4985a2c161bd.js, line 1: TypeError: this.canvas is null
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/28335.90e4985a2c161bd.js, line 1: TypeError: this.canvas is null
+1708688295634	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688296515	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688298403	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688298901	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688302306	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708688311150	Marionette	INFO	Stopped listening on port 51694
+JavaScript warning: https://s2.adform.net/stoat/631/s2.adform.net/load/v/0.0.238/e/.gBBwCDA/i/vCAv.IAAAAAUAA/r:AdConstructor:contents/HTML:types/Standard, line 66: Script terminated by timeout at:
+h@https://s2.adform.net/stoat/631/s2.adform.net/load/v/0.0.238/e/.gBBwCDA/i/vCAv.IAAAAAUAA/r:AdConstructor:contents/HTML:types/Standard:66:59
+
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1708688373938	geckodriver	INFO	Listening on 127.0.0.1:49726
+1708688377006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofile81OeXI"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708688377261	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708688377318	Marionette	INFO	Listening on port 49734
+WebDriver BiDi listening on ws://127.0.0.1:49727
+Read port: 49734
+1708688377463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708688377486	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49725","sslProxy":"127.0.0.1:49725"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49727/devtools/browser/854daabb-dbec-46b7-9ace-aa3be8a7dc0e
+JavaScript error: https://s2.coinmarketcap.com/_next/static/chunks/28335.90e4985a2c161bd.js, line 1: TypeError: this.canvas is null
+1708688401045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688407279	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708688441820	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1708688443295	Marionette	INFO	Stopped listening on port 49734
+JavaScript warning: https://cdn4.buysellads.net/pub/coinmarketcap.js?1708687800000, line 25: Script terminated by timeout at:
+c@https://cdn4.buysellads.net/pub/coinmarketcap.js?1708687800000:25:5410
+
+Dynamically enable window occlusion 1
+1708917435439	geckodriver	INFO	Listening on 127.0.0.1:59232
+1708917438514	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "-private" "--headless" " ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileibEN7u"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708917438852	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708917438917	Marionette	INFO	Listening on port 59242
+Read port: 59242
+WebDriver BiDi listening on ws://127.0.0.1:59233
+1708917438977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708917439014	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59231","sslProxy":"127.0.0.1:59231"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:59233/devtools/browser/8490ee2f-52be-4fc3-a3b4-c1f17f668871
+1708917460613	Marionette	INFO	Stopped listening on port 59242
+Dynamically enable window occlusion 1
+1708917640891	geckodriver	INFO	Listening on 127.0.0.1:59332
+1708917643961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--remote-debugging-port" ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileGtQ3BL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708917644201	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708917644264	Marionette	INFO	Listening on port 59340
+Read port: 59340
+WebDriver BiDi listening on ws://127.0.0.1:59333
+1708917644310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708917644340	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59331","sslProxy":"127.0.0.1:59331"}
+DevTools listening on ws://127.0.0.1:59333/devtools/browser/6a2fb57a-5e94-412e-b5df-42ea3ff58d05
+1708917675847	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708917689107	Marionette	INFO	Stopped listening on port 59340
+Dynamically enable window occlusion 1
+1708917754110	geckodriver	INFO	Listening on 127.0.0.1:59427
+1708917757171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--remote-debugging-port" ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofilezAU3gT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708917757416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708917757478	Marionette	INFO	Listening on port 59435
+WebDriver BiDi listening on ws://127.0.0.1:59428
+Read port: 59435
+1708917757630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708917757659	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59426","sslProxy":"127.0.0.1:59426"}
+DevTools listening on ws://127.0.0.1:59428/devtools/browser/b3c7d89d-c2a9-45bf-a01d-604973ca48fe
+1708917787579	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708917793658	Marionette	INFO	Stopped listening on port 59435
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-web-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1708918489580	geckodriver	INFO	Listening on 127.0.0.1:60069
+1708918492662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileexiuVb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708918492912	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708918492968	Marionette	INFO	Listening on port 60080
+WebDriver BiDi listening on ws://127.0.0.1:60070
+Read port: 60080
+1708918493105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708918493139	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60067","sslProxy":"127.0.0.1:60067"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60070/devtools/browser/f0b5e8c7-27e3-47f2-ae75-e160664c55ba
+1708918516392	Marionette	INFO	Stopped listening on port 60080
+Dynamically enable window occlusion 1
+1708918635105	geckodriver	INFO	Listening on 127.0.0.1:60362
+1708918638159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileSuALfw"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708918638398	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708918638455	Marionette	INFO	Listening on port 60373
+WebDriver BiDi listening on ws://127.0.0.1:60363
+Read port: 60373
+1708918638570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708918638595	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60361","sslProxy":"127.0.0.1:60361"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60363/devtools/browser/ccb84301-aac1-479c-808d-fb7280d6eb17
+1708918663665	Marionette	INFO	Stopped listening on port 60373
+Dynamically enable window occlusion 1
+1708918748514	geckodriver	INFO	Listening on 127.0.0.1:60620
+1708918751583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "start-maximized" "--headless" "--remote-de ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Rhass\\AppData\\Local\\Temp\\rust_mozprofileGY1XjR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708918751826	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1708918751882	Marionette	INFO	Listening on port 60632
+WebDriver BiDi listening on ws://127.0.0.1:60621
+Read port: 60632
+1708918751999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1708918752028	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60617","sslProxy":"127.0.0.1:60617"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:60621/devtools/browser/8607e8f0-0964-41c2-a90a-0602e8b27554
+1708918762517	Marionette	INFO	Stopped listening on port 60632
+Dynamically enable window occlusion 1

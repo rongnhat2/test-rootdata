@@ -7,11 +7,11 @@ from selenium.webdriver.common.action_chains import ActionChains
 import requests
 
 
-weblink = 'https://komon.io/'
+weblink = 'https://coinmarketcap.com/currencies/microvisionchain/'
 
 firefox_options = Options()
 firefox_options.add_argument("start-maximized")
-firefox_options.add_argument("-private")
+# firefox_options.add_argument("-private")
 firefox_options.add_argument("--headless")
 driver = webdriver.Firefox(options=firefox_options)
 
@@ -22,8 +22,8 @@ print("* Loaded "+weblink+" *")
 print("----------------------")
 
 listLink = []
-
-link = driver.find_elements(By.XPATH, './/descendant::a[@href]')
+main = driver.find_element(By.CLASS_NAME, "coin-stats")
+link = main.find_elements(By.XPATH, './/descendant::a[@href]')
 for i in link:
 	if "mailto:" in i.get_attribute('href'):
 		mail = i.get_attribute('href').split(":")[1].lower()
@@ -70,15 +70,30 @@ for i in link:
 		if telegram not in listLink:
 			listLink.append(telegram)
 
+	if "t.me" in i.get_attribute('href'):
+		telegram = i.get_attribute('href').split("?")[0].lower()
+		if telegram not in listLink:
+			listLink.append(telegram)
+
 	if "discord." in i.get_attribute('href'):
 		discord = i.get_attribute('href').split("?")[0].lower()
 		if discord not in listLink:
 			listLink.append(discord)
 
+	if "reddit." in i.get_attribute('href'):
+		reddit = i.get_attribute('href').split("?")[0].lower()
+		if reddit not in listLink:
+			listLink.append(reddit)
+
+	if "www." in i.get_attribute('href'):
+		www = i.get_attribute('href').split("?")[0].lower()
+		if www not in listLink:
+			listLink.append(www)
+
+
 for x in listLink:
 	print(x)
 	
 print("----------------------")
-print("* Finished *")
-time.sleep(2)
+print("* Finished *") 
 driver.quit() 
