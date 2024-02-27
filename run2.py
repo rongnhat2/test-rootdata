@@ -18,7 +18,7 @@ while i < 20:
 	x = json.loads(response.text)
 
 	print(x['name'])
-	weblink = 'https://www.rootdata.com/member/'+str(x["name"])+'?k='+str(x["project_decode"])
+	weblink = 'https://www.rootdata.com/Projects/detail/'+str(x["name"])+'?k='+str(x["project_decode"])
 
 	firefox_options = Options()
 	firefox_options.add_argument("start-maximized")
@@ -29,25 +29,32 @@ while i < 20:
 
 	driver.set_window_size(1920, 1080)
 	driver.get(weblink)
-	print(weblink)
-	try:
-		driver.execute_script("document.getElementsByClassName('tracker_wrap')[1].click()")
-		time.sleep(10)
-		driver.back()
-		time.sleep(10)
 
-		for request in driver.requests:
-			if request.method == 'POST' and "mem_detail" in request.url:
-				payload_data = request.body.decode('UTF-8')
-				url = "https://launch.rhass.vn/api/itemInvestor?id="+str(x["id"])+"&payload="+str(payload_data)
-				requests.get(url)
-	except Exception as e:
-		print(e)
-		url = "https://launch.rhass.vn/api/itemProject?id="+str(x["id"])
-		requests.get(url)
-		print("* Project Link *")
-	
-	time.sleep(10)
+	status_code = 500
+	for request in driver.requests:
+		if request.response:
+			print(weblink)
+	        print(request.response.status_code)
+	        status_code = request.response.status_code
+	if status_code == 200:
+		try:
+			driver.execute_script("document.getElementsByClassName('tracker_wrap')[1].click()")
+			time.sleep(10)
+			driver.back()
+			time.sleep(10)
+
+			for request in driver.requests:
+				if request.method == 'POST' and "item_detail" in request.url:
+					payload_data = request.body.decode('UTF-8')
+					url = "https://launch.rhass.vn/api/itemInvestor?id="+str(x["id"])+"&payload="+str(payload_data)
+					requests.get(url)
+		except Exception as e:
+			print(e)
+			url = "https://launch.rhass.vn/api/itemProject?id="+str(x["id"])
+			requests.get(url)
+			print("* Project Link *")
+		
+		time.sleep(5)
 
 	print("----------------------")
 	print("* Finished *")
