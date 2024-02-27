@@ -50,8 +50,8 @@ while i < 20:
 				requests.get(url)
 	except Exception as e:
 		print(e)
-		# url = "https://launch.rhass.vn/api/itemProject?id="+str(x["id"])
-		# requests.get(url)
+		url = "https://launch.rhass.vn/api/itemProject?id="+str(x["id"])
+		requests.get(url)
 		print("* Project Link *")
 	
 	time.sleep(5)
