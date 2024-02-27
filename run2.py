@@ -34,7 +34,7 @@ while i < 20:
 	for request in driver.requests:
 		if request.response:
 			print(weblink)
-	        print(request.response.status_code)
+			print(request.response.status_code)
 			status_code = request.response.status_code
 	if status_code == 200:
 		try:
