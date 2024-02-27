@@ -35,7 +35,7 @@ while i < 20:
 		if request.response:
 			print(weblink)
 	        print(request.response.status_code)
-	        status_code = request.response.status_code
+			status_code = request.response.status_code
 	if status_code == 200:
 		try:
 			driver.execute_script("document.getElementsByClassName('tracker_wrap')[1].click()")
